@@ -1,0 +1,13 @@
+body {
+    display: block;
+  }
+  h1 {
+    display: block;
+  }
+  
+  label {
+    display: flex;
+  }
+  input dropdown {
+    display: block;
+  }
